@@ -1,0 +1,7 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+.hover {
+  @apply hover:bg-gray-500 cursor-pointer;
+}
